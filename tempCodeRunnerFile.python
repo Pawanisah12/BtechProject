@@ -1,0 +1,4 @@
+emptylist=[]
+batsmen=['rohit','kohli','dhoni']
+batsmen[0]
+batsmen[0:2]
